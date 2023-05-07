@@ -1,0 +1,10 @@
+usage: shan_three.py [-h] [--model_type MODEL_TYPE] [--dataset DATASET]
+                     [--dim DIM] [--lr LR] [--n_epochs N_EPOCHS]
+                     [--batch_size BATCH_SIZE] [--lamada_u_v LAMADA_U_V]
+                     [--lamada_a LAMADA_A] [--ratio RATIO]
+shan_three.py: error: unrecognized arguments: 20200107-threeg-tallm-5-20.log
+usage: shan_three.py [-h] [--model_type MODEL_TYPE] [--dataset DATASET]
+                     [--dim DIM] [--lr LR] [--n_epochs N_EPOCHS]
+                     [--batch_size BATCH_SIZE] [--lamada_u_v LAMADA_U_V]
+                     [--lamada_a LAMADA_A] [--ratio RATIO]
+shan_three.py: error: unrecognized arguments: 20200107-threeg-tallm-5-20.log

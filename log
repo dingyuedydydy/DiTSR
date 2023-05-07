@@ -1,0 +1,2 @@
+</span> - root - INFO - model_type=three, dataset=foursquare - [hgshan_new.py:446]
+</span> - root - INFO - dim=120, lr=0.0010,  n_epochs=10, batch_size=1, lamada_u_v=0.0000, lamada_a=0.0100, ratio=1.00 - [hgshan_new.py:449]
